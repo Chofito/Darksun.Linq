@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>DarksunLinq</AssemblyName>
+    <RootNamespace>Darksun.Linq</RootNamespace>
+    <Version>0.1</Version>
+    <Company>Darksun</Company>
+    <Authors>Chofito</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
